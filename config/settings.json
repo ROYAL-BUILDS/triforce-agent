@@ -1,0 +1,5 @@
+{
+  "leverage": 3,
+  "risk_per_trade": 0.01,
+  "max_daily_loss": 0.05
+}
